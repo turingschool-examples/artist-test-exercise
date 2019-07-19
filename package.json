@@ -1,0 +1,25 @@
+{
+  "name": "musician-exercise",
+  "version": "1.0.0",
+  "description": "Test Writing Exercise for Turing FE Mod1",
+  "main": "artist-test.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turingschool-examples/artist-test-exercise.git"
+  },
+  "author": "Khalid Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turingschool-examples/artist-test-exercise/issues"
+  },
+  "homepage": "https://github.com/turingschool-examples/artist-test-exercise#readme"
+}
