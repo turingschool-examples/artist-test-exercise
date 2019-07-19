@@ -8,6 +8,10 @@ describe('Artist', function() {
 
   });
 
+  it('should be able to have a different name', function() {
+    // write test here:
+  })
+
   it('should start with an empty catalogue', function() {
     // write test here:
 
@@ -19,6 +23,7 @@ describe('Artist', function() {
   });
 
   it('should be able to return all songs of a given genre', function() {
+    // write test here:
 
   });
 });
