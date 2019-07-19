@@ -5,6 +5,10 @@ This exercise is meant to help get some practice with writing tests in mocha and
 The repo has two test suites, `song-test.js` and `artist-test.js`, with their
 `it` blocks filled out. Your job is to *write the tests and implementation for these suites*, getting everything to pass.
 
+We encourage you to write these without `mythical-creatures` open. Use the docs for guidance (and check out what other `assert` methods may be available!)
+
+[Chai Assert Documentation](https://www.chaijs.com/api/assert/)
+
 ## Steps for installation:
 
 
